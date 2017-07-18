@@ -1,0 +1,62 @@
+html, body {
+  margin: 0 0 20px 0;
+}
+.container {
+  width: 700px;
+  margin: 0 auto;
+}
+h1, h2, h3 {
+  color: rgb(32, 64, 86);
+}
+h1 {
+  font-size: 30px;
+}
+h2 {
+  font-size: 24px;
+}
+p, ul {
+  color: #333;
+}
+.header {
+  border-bottom: 2px solid rgba(0, 0, 0, 0.0784314);
+  padding: 10px 0;
+}
+.header img {
+  width: 159px;
+}
+.main {
+  font-family: 'Oxygen', sans-serif;
+}
+figure img {
+  width: 500px;
+  border: 1px solid #ccc;
+}
+figure {
+  margin-left: 0;
+  width: 33%;
+}
+.submission {
+  padding-left: 40px;
+}
+.submission span {
+  font-weight: 600;
+  text-decoration: underline;
+}
+a, a:visited {
+  color: #33B5E5;
+  font-weight: 600;
+}
+code {
+  padding: 0.2em;
+  background-color: rgba(0,0,0,0.04);
+  border-radius: 3px;
+}
+strong {
+  font-weight: 700;
+}
+ol > li {
+  margin-top: 5px;
+}
+ol > li li {
+  margin-top: 0;
+}
